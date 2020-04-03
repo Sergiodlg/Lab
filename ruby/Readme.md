@@ -1,0 +1,1 @@
+This program is used to find the missing number in a number sequence. The program asks the user to input the difference between each number in the sequence, then runs a simple algorithm that finds the missing number and it displays it on the screen. 

@@ -1,0 +1,1 @@
+This program is used to convert Kilometers to Miles. First the programs asks the user to input a value in kilometers. Then it uses a conversion factor of 0.621371 to calculate that value in miles. Finally, it prints the value converted in miles.
